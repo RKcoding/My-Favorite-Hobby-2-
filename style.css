@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: purple;
+    border-style: dotted;
+    border-color: white;
+    font-family: 'Henny Penny', cursive;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+#Hobby {
+    padding: 20px;
+    font-size: 18px;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-left 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Henny Penny', cursive;
+    font-size: 10px;
+}
+
+.links:hover {
+    background-color: fuchsia;
+}
+
+#Welcome {
+    font-family: 'Henny Penny', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
